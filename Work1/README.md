@@ -1,4 +1,4 @@
-![](E:/GAME/AndroidStudio/work/Work1/HAHA.jpg)
+![](./images/HAHA.jpg)
 
 # 创建第一个Android工程并同步GitHub 
 
@@ -20,13 +20,11 @@
 
 #### 选择左上角File+New+XML+Layout XML File从而创建Android工程，最后点击Finish即可！
 
-![](E:/GAME/AndroidStudio/work/Work1/Android1.png)
-
-
+![](./images/Android1.png)
 
 #### 效果图如下！
 
-![](E:/GAME/AndroidStudio/work/Work1/Android2.png)
+![](./images/Android2.png)
 
 
 
